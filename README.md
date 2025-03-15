@@ -26,7 +26,7 @@ Employee Management System built in a Python Framework Django and SQLlite as Dat
     ```python
     pipenv shell
     ```
-- Setup PostgreSQL Database and update database name and password in settings.py file in employeemanagement.
+- Setup SQLlite Database and update database name and password in settings.py file in employeemanagement.
 - Make the Migrations, run the command
     ```python
     python manage.py makemigrations
