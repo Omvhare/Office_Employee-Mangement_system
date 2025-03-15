@@ -1,6 +1,6 @@
 # Employee Management System - Django(Python)
 
-Employee Management System built in a Python Framework Django and PostgreSQL as Database. This webapp include the functionality like...
+Employee Management System built in a Python Framework Django and SQLlite as Database. This webapp include the functionality like...
 
 1. Login / Registration (Admin, Employee)
 2. Add / Manage Employee (Admin)
