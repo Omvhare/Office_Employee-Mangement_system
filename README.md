@@ -44,7 +44,7 @@ Employee Management System built in a Python Framework Django and SQLlite as Dat
 ## Screenshots
 
 Login
-![Login](https://github.com/Omvhare/Office_Employee-Mangement_system/blob/main/Screenshots/Emp%20login.png"Login")
+![Login](https://github.com/Omvhare/Office_Employee-Mangement_system/blob/main/Screenshots/Emp%20login.png"Emplogin")
 
 Dashboard
 ![Dashboard](https://github.com/omjogani/employee-management-django/blob/master/screenshots/Dashboard.png?raw=true "Dashboard")
